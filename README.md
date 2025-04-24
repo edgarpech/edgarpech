@@ -82,18 +82,6 @@ Portafolio profesional para empresa constructora, desarrollado con:
   <img src="https://img.shields.io/badge/Responsive_Design-563D7C?style=for-the-badge&logo=responsive&logoColor=white" alt="Diseño Responsive"/>
 </p>
 
-<p align="center">
-  <a href="https://construccionesluna.com.mx" target="_blank">
-    <img src="https://construccionesluna.com.mx/images/logos/logo.png" alt="Vista Previa Construcciones Luna" width="80%"/>
-  </a>
-</p> 
-
-<p align="center">
-  <a href="https://construccionesluna.com.mx" target="_blank">
-    <img src="https://construccionesluna.com.mx/images/logos/logo.png" alt="Construcciones Luna Preview" width="600"/>
-  </a>
-</p>
-
 ---
 
 ## 📫 **¡Conectemos!**
