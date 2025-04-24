@@ -48,9 +48,6 @@
 </p>
 
 ---
--
-
----
 
 ## 📊 **Estadísticas de GitHub**
 <p align="center">
