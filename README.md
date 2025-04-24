@@ -54,11 +54,11 @@
 
 ## 📊 **Estadísticas de GitHub**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgarpech&theme=github_dark&locale=es" alt="Detalles" width="700"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgarpech&locale=es&theme=github_dark" alt="Detalles" width="700"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgarpech&theme=github_dark&locale=es" width="340"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edgarpech&theme=github_dark&exclude=html,css&locale=es" width="340"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgarpech&locale=es&theme=github_dark" width="340"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edgarpech&locale=es&theme=github_dark&exclude=html,css" width="340"/>
 </p>
 
 ---
