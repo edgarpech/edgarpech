@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ### 🔹 Base de Datos
@@ -60,10 +63,10 @@
 ## 🏗 **Proyectos:**
 
 ####  **Construcciones Luna**
-**🔗 Enlace:** [construccionesluna](https://github.com/edgarpech/construccionesluna)  
+**🔗 Repositorio:** [GitHub](https://github.com/edgarpech/construccionesluna)  
+**🚀 Sitio Web:** [construccionesluna.com.mx](https://construccionesluna.com.mx) 
 **📌 Descripción:** Portafolio para cliente dedicado a la construcción, desarrollado con:  
-- Vue.js 3 (Componentes dinámicos) 
-- Tailwind CSS (Diseño responsive)  
+**📌 Stack:** Vue 3, Tailwind CSS 
 
 <p align="center">
   <a href="https://construccionesluna.com.mx" target="_blank">
@@ -80,6 +83,12 @@
   </a>
   <a href="https://www.linkedin.com/in/pechedgar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/pechedgar">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/_ive.aza">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
