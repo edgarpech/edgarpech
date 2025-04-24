@@ -54,8 +54,11 @@
 
 ## 📊 **Estadísticas de GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarpech&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarpech&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="350"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgarpech&theme=github_dark" alt="Detalles" width="700"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edgarpech&theme=github_dark" width="340"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edgarpech&theme=github_dark&exclude=html,css" width="340"/>
 </p>
 
 ---
