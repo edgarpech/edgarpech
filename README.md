@@ -2,7 +2,7 @@
 ### *Desarrollador Full Stack | Especialista en Laravel & Vue* 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22D3EE&width=400&lines=Código+limpio,+soluciones+eficaces" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&color=22D3EE&width=420&lines=Código+limpio,+soluciones+eficaces" alt="Typing Animation" />
 </p>
 
 ---
