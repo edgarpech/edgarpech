@@ -63,11 +63,11 @@
 ## 🏗 **Proyectos:**
 
 ####  **Construcciones Luna**
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://construccionesluna.com.mx" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web"/>
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; text-decoration: none !important;">
+  <a href="https://construccionesluna.com.mx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-FF713E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web"/>
   </a>
-  <a href="https://github.com/edgarpech/construccionesluna" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/edgarpech/construccionesluna" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/💻_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
   </a>
 </p>
