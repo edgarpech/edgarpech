@@ -63,10 +63,30 @@
 ## 🏗 **Proyectos:**
 
 ####  **Construcciones Luna**
-**🔗 Repositorio:** [GitHub](https://github.com/edgarpech/construccionesluna)  
-**🚀 Sitio Web:** [construccionesluna.com.mx](https://construccionesluna.com.mx) 
-**📌 Descripción:** Portafolio para cliente dedicado a la construcción, desarrollado con:  
-**📌 Stack:** Vue 3, Tailwind CSS 
+<p align="center">
+  <a href="https://construccionesluna.com.mx" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web"/>
+  </a>
+  <a href="https://github.com/edgarpech/construccionesluna" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
+  </a>
+</p>
+
+### 📝 **Descripción**
+Portafolio profesional para empresa constructora, desarrollado con:
+
+### 🛠 **Stack Tecnológico**
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-563D7C?style=for-the-badge&logo=responsive&logoColor=white" alt="Diseño Responsive"/>
+</p>
+
+<p align="center">
+  <a href="https://construccionesluna.com.mx" target="_blank">
+    <img src="https://construccionesluna.com.mx/images/logos/logo.png" alt="Vista Previa Construcciones Luna" width="80%"/>
+  </a>
+</p> 
 
 <p align="center">
   <a href="https://construccionesluna.com.mx" target="_blank">
