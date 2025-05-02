@@ -1,5 +1,5 @@
 # ¡Hola, soy Edgar Pech! 👨‍💻
-### *Desarrollador Full Stack | Especialista en Laravel & Vue* 🚀
+### *Desarrollador Full Stack | Especialista en Laravel* 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&color=22D3EE&width=420&lines=Código+limpio,+soluciones+eficaces" alt="Typing Animation" />
