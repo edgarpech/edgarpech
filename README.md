@@ -55,14 +55,6 @@
 
 ---
 
-## 📊 **Estadísticas de GitHub**
-<p align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarpech&show_icons=true&theme=github_dark&locale=es&hide_border=true" style="height: 195px; width: 340px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarpech&theme=github_dark&layout=compact&locale=es&hide_border=true" style="height: 195px; width: 340px;"/>
-</p>
-
----
-
 ## 🏗 **Proyectos:**
 
 ####  **Construcciones Luna**
