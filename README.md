@@ -1,4 +1,4 @@
-# ¡Hola, soy Edgar Pech! 👨‍💻
+# ¡Hola, soy <a href="https://edgarpech.netlify.app" target="_blank" rel="noopener noreferrer">Edgar Pech</a>! 👨‍💻
 ### *Desarrollador Full Stack | Especialista en Laravel* 🚀
 
 <p align="center">
@@ -58,23 +58,17 @@
 ## 🏗 **Proyectos:**
 
 ####  **Construcciones Luna**
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; text-decoration: none !important;">
-  <a href="https://construccionesluna.com.mx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-FF713E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web"/>
-  </a>
-  <a href="https://github.com/edgarpech/construccionesluna" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/💻_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio"/>
+<p align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; text-decoration: none !important;">
+  <a href="https://construccionesluna.netlify.app" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-FF713E?style=for-the-badge&logoColor=white" alt="Sitio Web"/>
   </a>
 </p>
 
-### 📝 **Descripción**
-Portafolio profesional para empresa constructora, desarrollado con:
-
-### 🛠 **Stack Tecnológico**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-563D7C?style=for-the-badge&logo=responsive&logoColor=white" alt="Diseño Responsive"/>
+####  **Tendejón Azael**
+<p align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; text-decoration: none !important;">
+  <a href="https://tendejonazael.com.mx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐_Visitar_Sitio-FF713E?style=for-the-badge&logoColor=white" alt="Sitio Web"/>
+  </a>
 </p>
 
 ---
